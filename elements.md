@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: About me
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
