@@ -49,12 +49,6 @@ nav-menu: true
 
 <hr class="major" />
 
-
-
-
-
-
-
 </div>
 </section>
 
