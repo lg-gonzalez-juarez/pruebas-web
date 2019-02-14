@@ -1,16 +1,16 @@
 # site settings
-title: Forty
-subtitle: name subtitle
+title: MyWeb
+subtitle: biography
 email: lorenita@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Cosas de interes acerca de mi vida laboral
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Rio Duero
+city: Madrid
+state: Madrid
+zip_code: 28911
+country: Spain
+phone: (34) 00 000 0000
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,13 +20,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
+gitlab_url: https://github.com/lg-gonzalez-juarez
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/lg-gonzalez-juarez
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/
 
 # build settings
 markdown: kramdown
