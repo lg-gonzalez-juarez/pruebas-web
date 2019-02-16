@@ -29,10 +29,9 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 
-
 	<section>
 	<a href="generic.html" class="image">
-	<img src="assets/images/circe.jpg" alt="" data-position="25% 25%" />
+	<img src="assets/images/pic09.jpg" alt="" data-position="25% 25%" />
 	</a>
 	<div class="content">
 
@@ -49,7 +48,7 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 - Diseño de aplicaciones GUIDE integradas en la plataforma Matlab-Simulink para validaciones de sistemas de control en tiempo real
 </p>
 	<ul class="actions">
-	<li><a href="http://www.fcirce.es/" class="button">Learn more circe</a></li>
+	<li><a href="https://www.altran.com" class="button">website Altran</a></li>
 	</ul>
 	</div>
 	</div>
@@ -59,7 +58,7 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 
 	<section>
 	<a href="generic.html" class="image">
-	<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+	<img src="assets/images/circe.jpg" alt="" data-position="25% 25%" />
 	</a>
 	<div class="content">
 
@@ -67,9 +66,9 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 	<header class="major">
 	<h3>Centro de investigación de recursos y consumos energéticos (CIRCE)</h3>
 	</header>
-        <p>texto "hi13".</p>
+        <p>Diseño y aplicación de pruebas a equipos de subestaciones eléctricas mediante el empleo de equipos Hardware in the Loop dentro del proyecto IdEAS (interoperabilidad de equipos de automatización de subestaciones).</p>
 	<ul class="actions">
-	<li><a href="http://www.fcirce.es/" class="button">Learn more circe</a></li>
+	<li><a href="http://www.fcirce.es/" class="button">website CIRCE</a></li>
 	</ul>
 	</div>
 	</div>
@@ -87,7 +86,7 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 	</header>
 	<p>Diseño, desarrollo y puesta en servicio de una red distribuida con control de orden fraccionario. Validación del sistema de control con simuladores Hardware in the loop y power in the loop.</p>
 	<ul class="actions">
-	<li><a href="https://www.uc3m.es/" class="button">Learn more about uc3m</a></li>
+	<li><a href="https://www.uc3m.es/" class="button">website UC3M</a></li>
 	</ul>
 	</div>
 	</div>
