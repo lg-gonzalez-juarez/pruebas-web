@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-image: assets/images/pic07.jpg
+image: assets/images/pic05.jpg
 nav-menu: true
 ---
 

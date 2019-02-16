@@ -16,4 +16,4 @@ Experiencia en el sector petrolero dentro de PEMEX (México), en el diseño de a
 
 Especialización en los campos de diseño de sistemas de control incorporando las tecnologías de simulación digital en tiempo real (RTDS), implementación experimental de sistemas de control aplicado a fuentes de generación distribuida y dispositivos FACTS empleando las plataformas: LabVIEW, xPC Target, dSPACE y OPAL-RT.
 
-
+https://www.youtube.com/watch?v=BrmqyVuyegc
