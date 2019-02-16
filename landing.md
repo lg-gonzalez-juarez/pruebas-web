@@ -32,7 +32,7 @@ nav-menu: true
 
 	<section>
 	<a href="generic.html" class="image">
-	<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+	<img src="assets/images/circe.jpg" alt="" data-position="25% 25%" />
 	</a>
 	<div class="content">
 
@@ -78,7 +78,7 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 
 	<section>
 	<a href="generic.html" class="image">
-	<img src="assets/images/uc3mLAB.JPG" alt="" data-position="top center" />
+	<img src="assets/images/uc3mLAB.jpg" alt="" data-position="top center" />
 	</a>
 	<div class="content">
 	<div class="inner">
