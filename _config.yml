@@ -5,7 +5,7 @@ email: lorenita@gmail.com
 description: Cosas de interes acerca de mi vida laboral
 url: # the base hostname & protocol for your site
 author:
-street_address: Rio Duero
+street_address: 
 city: Madrid
 state: Madrid
 zip_code: 28911
@@ -19,8 +19,8 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://github.com/lg-gonzalez-juarez
+github_url:https://github.com/lg-gonzalez-juarez
+gitlab_url: 
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/lg-gonzalez-juarez
