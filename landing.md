@@ -1,7 +1,9 @@
 ---
 title: Experiencia
 layout: landing
-description: 'Que he hecho estos años.'
+description: More than 14 years of experience in projects and applied research. Strong background in electrical engineering with emphasis in renewable energy control and power output conditioning. 
+
+
 image: assets/images/windTrueno.jpg
 nav-menu: true
 ---
@@ -102,7 +104,7 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 			<header class="major">		
 				<h3>RIAMA</h3>
 			</header>
-				<p>Puede haber texto</p>
+				<p>Diseño de ingeniería, puesta en servicio, y arranque de: maquinaria eléctrica, centro de control de motores, y controles embebidos para subestaciones eléctricas en media tensión en el sector petrolero. Programación de autómatas Allen-Bradley para sistemas de arranque-paro y señalización de control de bombas en entornos explosivos y corrosivos. Diseño de sistemas de software embebido en sistemas de control RTO.</p>
 			<ul class="actions">
 			<li><a href="https://es.wikipedia.org/wiki/Petr%C3%B3leos_Mexicanos" 				class="button">wiki RIAMA</a></li></ul>
 			</div>
