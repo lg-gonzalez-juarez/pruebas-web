@@ -2,8 +2,6 @@
 title: Experiencia
 layout: landing
 description: More than 14 years of experience in projects and applied research. Strong background in electrical engineering with emphasis in renewable energy control and power output conditioning. 
-
-
 image: assets/images/windTrueno.jpg
 nav-menu: true
 ---
