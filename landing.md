@@ -2,7 +2,7 @@
 title: Experiencia
 layout: landing
 description: 'Que he hecho estos años.'
-image: assets/images/pic07.jpg
+image: assets/images/windTrueno.jpg
 nav-menu: true
 ---
 
