@@ -11,7 +11,7 @@ nav-menu: true
 
 
 <!-- Three -->
-<section id="three">
+<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Altran</h2>
@@ -28,7 +28,7 @@ nav-menu: true
 
 
 <!-- One -->
-<section id="one">
+<section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Centros de trabajo</h2>
