@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resumen
-description: Lorem ipsum dolor est
+description: My review Linkedin
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

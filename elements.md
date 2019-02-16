@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About me
-image: assets/images/pic05.jpg
+description: Mis actividades en México y en España
+image: assets/images/lyoko.jpg
 nav-menu: true
 ---
 
