@@ -2,7 +2,7 @@
 layout: post
 title: Resumen
 description: My review Linkedin
-image: assets/images/pic11.jpg
+image: assets/images/lyoko.jpg
 nav-menu: true
 ---
 
