@@ -1,13 +1,19 @@
 ---
 layout: post
-title: Generic
+title: Resumen
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Resumen linkedin
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+Desarrollo de algoritmos de control de sistemas eléctricos de media y alta tensión. Diseño y puesta en servicio de sistemas Power in the Loop (PHIL) dedicados a la validación de sistemas de control en tiempo real. 
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Ha trabajado en el centro de investigación CIRCE en el área de sistemas de protecciones eléctricas y homologación de relevadores de potencia eléctricos empleando PHIL. En la Universidad Carlos III de Madrid ha participado el desarrollo de sistemas de gestión de redes inteligentes dentro del grupo de investigación CERES.
+
+Experiencia en el sector petrolero dentro de PEMEX (México), en el diseño de arquitecturas de control de sistemas eléctricos abarcando diseño de instalaciones eléctricas, control de motores y subestaciones eléctricas. Experiencia en los campos de electrónica de potencia con sistemas embebidos (PFGA y Power in the Loop), aplicados a calidad de la energía y a sistemas de fuentes de generación distribuida controlables.
+
+Especialización en los campos de diseño de sistemas de control incorporando las tecnologías de simulación digital en tiempo real (RTDS), implementación experimental de sistemas de control aplicado a fuentes de generación distribuida y dispositivos FACTS empleando las plataformas: LabVIEW, xPC Target, dSPACE y OPAL-RT.
+
+

@@ -9,6 +9,24 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
+
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Altran</h2>
+		</header>
+		<p>texto 14022019-3-54.</p>
+		<ul class="actions">
+			<li><a href="https://www.altran.com" class="button next">go to  altran</a></li>
+		</ul>
+	</div>
+</section>
+
+</div>
+
+
+
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -76,17 +94,4 @@ nav-menu: true
 
 
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Altran</h2>
-		</header>
-		<p>texto 14022019-3-54.</p>
-		<ul class="actions">
-			<li><a href="https://www.altran.com" class="button next">go to  altran</a></li>
-		</ul>
-	</div>
-</section>
 
-</div>
