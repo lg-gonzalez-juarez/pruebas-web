@@ -2,7 +2,7 @@
 layout: page
 title: About me
 description: Mis actividades en México y en España
-image: assets/images/lyoko.jpg
+image: assets/images/mundo.jpg
 nav-menu: true
 ---
 
