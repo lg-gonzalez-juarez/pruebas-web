@@ -7,4 +7,4 @@ image: null
 author: null
 show_tile: false
 ---
-index lore
+Mi diez es tu cero
