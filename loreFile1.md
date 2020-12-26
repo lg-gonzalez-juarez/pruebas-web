@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Lore
 image: assets/images/pic07.jpg
 nav-menu: true
