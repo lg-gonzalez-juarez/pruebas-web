@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Resumen
+title: Linkedin
 description: My review Linkedin
 image: assets/images/software.jpg
 nav-menu: true
 ---
 
-Resumen linkedin
 
 Desarrollo de algoritmos de control de sistemas eléctricos de media y alta tensión. Diseño y puesta en servicio de sistemas Power in the Loop (PHIL) dedicados a la validación de sistemas de control en tiempo real. 
 
