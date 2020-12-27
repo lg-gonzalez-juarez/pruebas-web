@@ -6,15 +6,16 @@ image: assets/images/software.jpg
 nav-menu: true
 ---
 
+Development of control algorithms for low and high voltage electrical systems. Design and start up of Power Hardware in the Loop (PHIL) systems dedicated to the validation of real-time control systems.
 
-Desarrollo de algoritmos de control de sistemas eléctricos de media y alta tensión. Diseño y puesta en servicio de sistemas Power in the Loop (PHIL) dedicados a la validación de sistemas de control en tiempo real. 
+Senior technology consultant at ALTRAN, design and implementation of control algorithms for wind, photovoltaic and compensation devices in real distributed generation systems. Design of automated validation tests of control algorithms focused on continuous integration systems.
 
-Ha trabajado en el centro de investigación CIRCE en el área de sistemas de protecciones eléctricas y homologación de relevadores de potencia eléctricos empleando PHIL. En la Universidad Carlos III de Madrid ha participado el desarrollo de sistemas de gestión de redes inteligentes dentro del grupo de investigación CERES.
+In the CIRCE research center she has worked in the area of ​​electrical protection systems and approval of electric power relays using PHIL. During the development of her PhD at the Carlos III University of Madrid, she has participated in the development of smart grid management systems within the CERES research group.
 
-Experiencia en el sector petrolero dentro de PEMEX (México), en el diseño de arquitecturas de control de sistemas eléctricos abarcando diseño de instalaciones eléctricas, control de motores y subestaciones eléctricas. Experiencia en los campos de electrónica de potencia con sistemas embebidos (PFGA y Power in the Loop), aplicados a calidad de la energía y a sistemas de fuentes de generación distribuida controlables.
+Experience in the oil sector within PEMEX (Mexico), in the design of control architectures for electrical systems, including design of electrical installations, motor control and electrical substations. Experience in the field of power electronics with embedded systems (FPGA and PHIL) applied to power quality and controllable distributed generation source systems.
 
-Especialización en los campos de diseño de sistemas de control incorporando las tecnologías de simulación digital en tiempo real (RTDS), implementación experimental de sistemas de control aplicado a fuentes de generación distribuida y dispositivos FACTS empleando las plataformas: LabVIEW, xPC Target, dSPACE y OPAL-RT.
+Specialization in the fields of control system design incorporating real-time digital simulation technologies (RTDS), experimental implementation of control systems applied to distributed generation sources and FACTS devices using the platforms: LabVIEW, xPC Target (MATLAB/Simulink RT), dSPACE and OPAL-RT. 
 
 
-This is my video
-https://www.youtube.com/watch?v=BrmqyVuyegc
+![youtube video](https://www.youtube.com/watch?v=BrmqyVuyegc)
+

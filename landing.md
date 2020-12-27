@@ -9,7 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -54,8 +53,6 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 	</div>
 	</section>
 
-
-
 	<section>
 	<a href="generic.html" class="image">
 	<img src="assets/images/circe.jpg" alt="" data-position="25% 25%" />
@@ -73,7 +70,6 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 	</div>
 	</div>
 	</section>
-
 
 	<section>
 	<a href="generic.html" class="image">
@@ -108,8 +104,6 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 			</div>
 		</div>
 	</section>
-
-
 </section>
 
 
@@ -119,12 +113,6 @@ Desarrollo de algoritmos de control de plantas eólicas, solares y dispositivos 
 		<header class="major">
 			<h2>Proyectos Desarrollados</h2>
 		</header>
-		<p> Sistema de plataformas flotantes</p>
+		<p> Sistema de plataformas flotantes, este trabajo fue desarrollado en CSI</p>
 	</div>
 </section>
-
-
-
-
-
-
