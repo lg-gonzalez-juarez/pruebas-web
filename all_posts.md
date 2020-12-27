@@ -1,11 +1,11 @@
 ---
 layout: allposts
-title: Posts
+title: Posts alls
 landing-title: 'All posts'
 nav-menu: true
 description: null
 image: true
-author: null
+author: true
 show_tile: true
 ---
 

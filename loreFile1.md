@@ -1,9 +1,11 @@
 ---
-layout: post
-title: Lore
+layout: page
+title: code
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
+<!-- layout: post -->
+
 
 <!-- Main -->
 <div id="main" class="alt">
@@ -12,16 +14,16 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Lore</h1>
+			<h1>Code - Part 1</h1>
 		</header>
 
 <!-- Elements ... Lore -->
-<h2 id="Lore">Lore subtitle</h2>
+<h2 id="code">Lore subtitle</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
 <!-- Text stuff -->
-<h3>Text</h3>
+<h3>Text level 3</h3>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
 This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
@@ -31,7 +33,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <h3>Heading Level 3</h3>
 <h4>Heading Level 4</h4>
 <hr />
-<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+<p>this corresponds to parraf.</p>
 
 
 <!-- Lists -->
@@ -84,6 +86,9 @@ Finally, this is a <a href="#">link</a>.</p>
 	</div>
 </div>
 
+
+
+<!-- Definitions -->
 <h4>Definition</h4>
 <dl>
 	<dt>Item1</dt>
@@ -99,6 +104,9 @@ Finally, this is a <a href="#">link</a>.</p>
 		<p>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor.</p>
 	</dd>
 </dl>
+
+
+
 
 <h4>Actions</h4>
 <ul class="actions">
@@ -145,18 +153,9 @@ Finally, this is a <a href="#">link</a>.</p>
 
 
 
-
-
-
-
-
-
-
-
-
 <!-- Blockquote -->
 <h3>Blockquote</h3>
-<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis.</blockquote>
+<blockquote>Si una nota es importante, este es su lugar.</blockquote>
 
 <!-- Table -->
 <h3>Table</h3>
@@ -207,7 +206,8 @@ Finally, this is a <a href="#">link</a>.</p>
 	</table>
 </div>
 
-<h4>Alternate</h4>
+
+<h4>Alternate Table</h4>
 <div class="table-wrapper">
 	<table class="alt">
 		<thead>
@@ -252,6 +252,8 @@ Finally, this is a <a href="#">link</a>.</p>
 		</tfoot>
 	</table>
 </div>
+
+
 
 </div>
 <div class="6u$ 12u$(medium)">
@@ -348,6 +350,9 @@ Finally, this is a <a href="#">link</a>.</p>
 	</div>
 </form>
 
+
+
+
 <!-- Image -->
 <h3>Image</h3>
 
@@ -371,26 +376,24 @@ Finally, this is a <a href="#">link</a>.</p>
 
 
 
-
-
-
-
-
 <h4>Left &amp; Right</h4>
-<p><span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
-<p><span class="image right"><img src="assets/images/pic10.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
+<p><span class="image left"><img src="assets/images/pic09.jpg" alt="" /></span>This text is rigth. I don't have expertise but I try.</p>
 
+
+<p><span class="image right"><img src="assets/images/pic10.jpg" alt="" /></span>Lorem ipsum dolor sit accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget tempus vestibulum ante ipsum primis in faucibus magna blandit adipiscing eu felis iaculis.</p>
 
 
 <!-- Box -->
 <h3>Box</h3>
 <div class="box">
-	<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
+	<p>This text is allocated inside box
+Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus lorem ipsum.</p>
 </div>
 
 <!-- Preformatted Code -->
-<h3>Preformatted</h3>
-<pre><code>i = 0;
+<h3>Comandos útiles</h3>
+<pre><code>
+i = 0;
 
 while (!deck.isInOrder()) {
     print 'Iteration ' + i;
