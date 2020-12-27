@@ -44,7 +44,7 @@ nav-menu: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Aportaciones</h3>
-		<p>Prjectos para crear mi propia empresa</p>
+		<p>Projectos para crear mi propia empresa</p>
 	</div>
 </div>
 
