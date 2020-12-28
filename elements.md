@@ -18,7 +18,8 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">Diseñadora e Investigadora</h2>
-<p>Disfruto del aprendizaje continuo y me hace feliz lograr resultados que ayuden a los demas. Naci, creci y comence mi vida laboral e investigadora en México. Mi espiritu aventurero me llevo a España.  </p>
+	<p>Disfruto del aprendizaje continuo y me hace feliz lograr resultados que ayuden a los demas. 		Naci, creci y comence mi vida laboral e investigadora en México. Mi espiritu aventurero me 		llevo a España.
+	</p>
 
 <div class="row">
 	<div class="6u 12u$(small)">
