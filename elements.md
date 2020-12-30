@@ -5,16 +5,13 @@ description: Mis actividades en México y en España
 image: assets/images/mundo.jpg
 nav-menu: true
 ---
-
 <!-- Main -->
 <div id="main" class="alt">
 
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	<header class="major">
-	<h1>Acerca de mi</h1>
-	</header>
+	<header class="major"><h1>Acerca de mi</h1></header>
 
 <!-- Content -->
 <h2 id="content">Diseñadora e Investigadora</h2>
@@ -34,7 +31,9 @@ nav-menu: true
 Con una maleta y determinacion para construir mis sueños me incorpore en un doctorado en ingenieria electrica en Madrid. En la parte personal, me encontre con amigos con los misma perpectiva de la vida, tanto dentro de la universidad como fuera de la universidad. Gracias al doctorado desarrolle habilidades en el desarrollo de sistemas en tiempo real y encontre otra pasion. Los sistemas hardware in the loop (HIL) y el desarrollo de sistemas de testeo en diferentes plataformas. Cambios en mi vida me llevaron a un centro de investigacion CIRCE (Zaragoza) donde vi lo util que son los sistemas HIL en el testeo de sistemas reales de potencia. Mi espiritu de continuo aprendizaje me llevaron a regresar al movimiento constante de Madrid. Actualmente estoy formandome en AI y deep learning .... siempre quedan lugares nuevos donde desarrollarse.
 	</p>
 	</div>
-	<!-- Break -->
+<!-- -->	
+<!-- -->
+<!-- three columns -->
 	<div class="4u 12u$(medium)">
 		<h3>Habilidades</h3>
 		<p>Constante aprendizaje</p>
@@ -53,5 +52,3 @@ Con una maleta y determinacion para construir mis sueños me incorpore en un doc
 
 </div>
 </section>
-
-</div>
