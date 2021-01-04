@@ -1,12 +1,14 @@
 ---
+title: code
 layout: landing
-landing-title: 'code'
 description: Here the hacks about programming
 image: assets/images/pic07.jpg
-image: true
 nav-menu: true
 ---
+<!--image: true-->
+<!--layout: landing -->
 
+<!-- landing-title: 'code'-->
 <!-- Main -->
 <div id="main" class="alt">
 

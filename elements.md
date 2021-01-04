@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About me
+layout: page
 description: Mis actividades en México y en España
 image: assets/images/mundo.jpg
 nav-menu: true

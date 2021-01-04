@@ -1,10 +1,11 @@
 ---
 title: Linkedin
-layout: landing
+layout: page
 description: Here is my review Linkedin
 image: assets/images/software.jpg
 nav-menu: true
 ---
+<!---->
 
 <section id="one">
 	<div id="main" class="alt"></div>
